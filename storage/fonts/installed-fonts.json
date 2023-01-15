@@ -1,0 +1,17 @@
+{
+    "poppins": {
+        "300": "D:\\KULIAH\\Semester 3\\RPL\\git_confido\\storage\\fonts\/poppins_300_999a4088f0da952988730996a4bec1d8",
+        "normal": "D:\\KULIAH\\Semester 3\\RPL\\git_confido\\storage\\fonts\/poppins_normal_ee697d7869cb745ccf3ccccc013145ad",
+        "500": "D:\\KULIAH\\Semester 3\\RPL\\git_confido\\storage\\fonts\/poppins_500_fce53b208cddccda1573b7620b579598",
+        "600": "D:\\KULIAH\\Semester 3\\RPL\\git_confido\\storage\\fonts\/poppins_600_9623fbc18c38938c2057a9aae8390a42",
+        "bold": "D:\\KULIAH\\Semester 3\\RPL\\git_confido\\storage\\fonts\/poppins_bold_8fe618268f56b4b8f1e70e87a9e99fc0",
+        "800": "D:\\KULIAH\\Semester 3\\RPL\\git_confido\\storage\\fonts\/poppins_800_ef86a7722c08a791e114b6649bbd6ae4",
+        "900": "poppins_900_c60a07be40ef8f258a248a492dd87245"
+    },
+    "arizonia": {
+        "normal": "arizonia_normal_1aa6caa68a3a878bf10ea89915146c37"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_6b8fcb303bfef6f4ea9e882534054307"
+    }
+}
